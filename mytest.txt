@@ -1,0 +1,5 @@
+
+
+git push origin https://github.com/angela86xl/cauna.git   本地与github关联
+
+git push origin -u master  上传本地文件到github   输入账号 密码
